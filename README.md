@@ -1,0 +1,2 @@
+# apipointer
+hanya api biasa
